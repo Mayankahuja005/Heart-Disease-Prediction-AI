@@ -6,10 +6,9 @@ st.set_page_config(
     page_icon="❤️",
     layout="centered"
 )
-model=joblib.load("KNN_heart.pkl")
-scaler=joblib.load("scaler.pkl")
-expected_columns=joblib.load("columns.pkl")
-
+model = joblib.load("HeartDisease_Prediction_Project/KNN_heart.pkl")
+scaler = joblib.load("HeartDisease_Prediction_Project/scaler.pkl")
+expected_columns = joblib.load("HeartDisease_Prediction_Project/columns.pkl")
 
 st.markdown(
     "<h1 style='text-align: center;'>❤️ Heart Disease Prediction</h1>",
