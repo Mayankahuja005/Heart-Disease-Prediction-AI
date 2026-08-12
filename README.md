@@ -25,13 +25,15 @@ A machine learning web application built with **Python, Streamlit, and KNN** tha
 
 ```text
 Heart-Disease-Prediction-AI/
-│
-├── app.py
-├── KNN_heart.pkl
-├── scaler.pkl
-├── columns.pkl
-├── requirements.txt
-└── README.md
+├── HeartDisease_Prediction_Project/
+│   ├── KNN_heart.pkl
+│   ├── app.py
+│   ├── columns.pkl
+│   └── scaler.pkl
+├── Heart Project Model.ipynb
+├── README.md
+├── heart.csv
+└── requirements.txt   ← ye add karna hai
 ```
 
 ## ⚙️ Installation
