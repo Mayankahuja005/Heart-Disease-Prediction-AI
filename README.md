@@ -16,7 +16,9 @@ A machine learning web application built with **Python, Streamlit, and KNN** tha
 
 * **Python**
 * **Streamlit**
+* **Numpy**
 * **Pandas**
+* **Matplotlib & Seaborn**
 * **Scikit-learn**
 * **Joblib**
 * **KNN (K-Nearest Neighbors)**
@@ -33,7 +35,7 @@ Heart-Disease-Prediction-AI/
 ├── Heart Project Model.ipynb
 ├── README.md
 ├── heart.csv
-└── requirements.txt   ← ye add karna hai
+└── requirements.txt
 ```
 
 ## ⚙️ Installation
